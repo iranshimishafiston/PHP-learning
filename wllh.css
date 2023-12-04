@@ -1,0 +1,67 @@
+.header{
+    background-color: rgb(29, 30, 41);
+    color: white;
+    width: 1241px;
+    margin-left: -10px;
+    height: 72px;
+    margin-top: -17px;
+    position: fixed;
+}
+
+.header p{
+    margin-left: 50px;
+}
+
+.link{
+    margin-left: 250px;
+    margin-top: -35px;
+}
+
+.link a{
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.link a:hover{
+    cursor: pointer;
+}
+
+.search{
+    margin-left: 800px;
+    margin-top: -25px;
+}
+
+.search input{
+    width: 250px;
+    height: 35px;
+    background-color: rgb(29, 30, 41);
+    border: 2px solid white;
+    color: white;
+}
+
+.search button{
+    width: 80px;
+    height: 35px;
+    background-color: rgb(29, 30, 41);
+    border: 2px solid white;
+    color: white;
+}
+
+.search button:hover{
+    background-color: white;
+    color: black;
+}
+
+::-webkit-input-placeholder{
+    color: white;
+    margin-left: 10px;
+}
+
+.coursel img{
+    width: 1226px;
+    height: 500px;
+    margin-left: -10px;
+
+}

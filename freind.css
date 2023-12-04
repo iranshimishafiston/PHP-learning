@@ -1,0 +1,42 @@
+.account{
+    width: 200px;
+    height: 200px;
+    border-radius: 360px;
+    background-color: red;
+}
+.request .account2{
+    width: 200px;
+    height: 200px;
+    border-radius: 360px;
+    background-color: blue;
+}
+
+.request h1{
+    color: black;
+    display: block;
+}
+
+.request{
+    /* margin-left: 300px; */
+    margin-top: -220px;
+}
+
+.freind button{
+    width: 100px;
+    height: 50px;
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.request button{
+    width: 100px;
+    height: 50px;
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
